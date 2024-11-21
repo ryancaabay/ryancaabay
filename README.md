@@ -1,10 +1,12 @@
-## Hi there 👋
+![Static Badge](https://img.shields.io/badge/hello%2C-world!-blue)
+
+- :computer: Aspiring Data Scientist
+- :hammer_and_wrench: I build models with: `Python` `SQL` ...
+- ⚡ I enjoy: learning tech, working out, reading books, competitive gaming
+- :student: B.S. in Computer Science
 
 <!--
-**ryancaabay/ryancaabay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- ✨
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
