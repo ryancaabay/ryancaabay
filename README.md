@@ -2,7 +2,7 @@
 
 - :computer: Aspiring Data Scientist
 - :hammer_and_wrench: I build models with: `Python` `SQL` ...
-- ⚡ I enjoy: learning tech, working out, reading books, competitive gaming
+- ⚡ I enjoy: learning tech, listening to podcasts, reading books, working out
 - :student: B.S. in Computer Science
 
 <!--
